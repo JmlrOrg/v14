@@ -1,0 +1,16 @@
+{
+    "abstract": "We describe an inference task in which a set of timestamped event observations must be clustered into an unknown number of temporal sequences with independent and varying rates of observations. Various existing approaches to multi-object tracking assume a fixed number of sources and/or a fixed observation rate; we develop an approach to inferring structure in timestamped data produced by a mixture of an unknown and varying number of similar Markov renewal processes, plus independent clutter noise. The inference simultaneously distinguishes signal from noise as well as clustering signal observations into separate source streams. We illustrate the technique via synthetic experiments as well as an experiment to track a mixture of singing birds. Source code is available.",
+    "authors": [
+        "Dan Stowell",
+        "Mark D. Plumbley"
+    ],
+    "id": "stowell13a",
+    "issue": 31,
+    "pages": [
+        2213,
+        2238
+    ],
+    "title": "Segregating Event Streams and Noise with a Markov Renewal Process Model",
+    "volume": 14,
+    "year": 2013
+}

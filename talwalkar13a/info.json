@@ -1,0 +1,18 @@
+{
+    "abstract": "This paper examines the efficacy of sampling-based low-rank approximation techniques when applied to large dense kernel matrices. We analyze two common approximate singular value decomposition techniques, namely the Nystrom and Column sampling methods. We present a theoretical comparison between these two methods, provide novel insights regarding their suitability for various tasks and present experimental results that support our theory. Our results illustrate the relative strengths of each method. We next examine the performance of these two techniques on the large-scale task of extracting low-dimensional manifold structure given millions of high-dimensional face images. We address the computational challenges of non-linear dimensionality reduction via Isomap and Laplacian Eigenmaps, using a graph containing about $18$ million nodes and $65$ million edges. We present extensive experiments on learning low- dimensional embeddings for two large face data sets: CMU-PIE ($35$ thousand faces) and a web data set ($18$ million faces). Our comparisons show that the Nystrom approximation is superior to the Column sampling method for this task. Furthermore, approximate Isomap tends to perform better than Laplacian Eigenmaps on both clustering and classification with the labeled CMU-PIE data set.",
+    "authors": [
+        "Ameet Talwalkar",
+        "Sanjiv Kumar",
+        "Mehryar Mohri",
+        "Henry Rowley"
+    ],
+    "id": "talwalkar13a",
+    "issue": 60,
+    "pages": [
+        3129,
+        3152
+    ],
+    "title": "Large-scale SVD and Manifold Learning",
+    "volume": 14,
+    "year": 2013
+}

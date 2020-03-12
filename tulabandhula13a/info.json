@@ -1,0 +1,17 @@
+{
+    "abstract": "This work proposes a way to align statistical modeling with decision making. We provide a method that propagates the uncertainty in predictive modeling to the uncertainty in operational cost, where operational cost is the amount spent by the practitioner in solving the problem. The method allows us to explore the range of operational costs associated with the set of reasonable statistical models, so as to provide a useful way for practitioners to understand uncertainty. To do this, the operational cost is cast as a regularization term in a learning algorithm's objective function, allowing either an optimistic or pessimistic view of possible costs, depending on the regularization parameter. From another perspective, if we have prior knowledge about the operational cost, for instance that it should be low, this knowledge can help to restrict the hypothesis space, and can help with generalization. We provide a theoretical generalization bound for this scenario. We also show that learning with operational costs is related to robust optimization.",
+    "authors": [
+        "Theja Tulab",
+        "hula",
+        "Cynthia Rudin"
+    ],
+    "id": "tulabandhula13a",
+    "issue": 25,
+    "pages": [
+        1989,
+        2028
+    ],
+    "title": "Machine Learning with Operational Costs",
+    "volume": 14,
+    "year": 2013
+}

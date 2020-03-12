@@ -1,0 +1,18 @@
+{
+    "abstract": "We present <i>Tapkee</i>, a C++ template library that provides efficient implementations of more than $20$ widely used dimensionality reduction techniques ranging from <i>Locally Linear Embedding</i> (Roweis and Saul, 2000) and Isomap (de Silva and Tenenbaum, 2002) to the recently introduced <i>Barnes- Hut-SNE</i> (van der Maaten, 2013). Our library was designed with a focus on performance and flexibility. For performance, we combine efficient multi-core algorithms, modern data structures and state-of-the-art low-level libraries. To achieve flexibility, we designed a clean interface for applying methods to user data and provide a callback API that facilitates integration with the library. The library is freely available as open-source software and is distributed under the permissive <i>BSD 3-clause</i> license. We encourage the integration of <i>Tapkee</i> into other open-source toolboxes and libraries. For example, <i>Tapkee</i> has been integrated into the codebase of the <i>Shogun</i> toolbox (Sonnenburg et al., 2010), giving us access to a rich set of kernels, distance measures and bindings to common programming languages including Python, Octave, Matlab, R, Java, C#, Ruby, Perl and Lua. Source code, examples and documentation are available at <a href=\"http://tapkee.lisitsyn.me\">http://tapkee.lisitsyn.me</a>.",
+    "authors": [
+        "Sergey Lisitsyn",
+        "Christian Widmer",
+        "Fern",
+        "o J. Iglesias Garcia"
+    ],
+    "id": "lisitsyn13a",
+    "issue": 36,
+    "pages": [
+        2355,
+        2359
+    ],
+    "title": "Tapkee: An Efficient Dimension Reduction Library",
+    "volume": 14,
+    "year": 2013
+}

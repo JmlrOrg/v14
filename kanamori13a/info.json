@@ -1,0 +1,17 @@
+{
+    "abstract": "There are two main approaches to binary classification problems: the loss function approach and the uncertainty set approach. The loss function approach is widely used in real-world data analysis. Statistical decision theory has been used to elucidate its properties such as statistical consistency. Conditional probabilities can also be estimated by using the minimum solution of the loss function. In the uncertainty set approach, an uncertainty set is defined for each binary label from training samples. The best separating hyperplane between the two uncertainty sets is used as the decision function. Although the uncertainty set approach provides an intuitive understanding of learning algorithms, its statistical properties have not been sufficiently studied. In this paper, we show that the uncertainty set is deeply connected with the convex conjugate of a loss function. On the basis of the conjugate relation, we propose a way of revising the uncertainty set approach so that it will have good statistical properties such as statistical consistency. We also introduce statistical models corresponding to uncertainty sets in order to estimate conditional probabilities. Finally, we present numerical experiments, verifying that the learning with revised uncertainty sets improves the prediction accuracy.",
+    "authors": [
+        "Takafumi Kanamori",
+        "Akiko Takeda",
+        "Taiji Suzuki"
+    ],
+    "id": "kanamori13a",
+    "issue": 9,
+    "pages": [
+        1461,
+        1504
+    ],
+    "title": "Conjugate Relation between Loss Functions and Uncertainty Sets in Classification Problems",
+    "volume": 14,
+    "year": 2013
+}

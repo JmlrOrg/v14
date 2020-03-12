@@ -1,0 +1,18 @@
+{
+    "abstract": "We present BudgetedSVM, an open-source C++ toolbox comprising highly-optimized implementations of recently proposed algorithms for scalable training of Support Vector Machine (SVM) approximators: Adaptive Multi-hyperplane Machines, Low-rank Linearization SVM, and Budgeted Stochastic Gradient Descent. BudgetedSVM trains models with accuracy comparable to LibSVM in time comparable to LibLinear, solving non-linear problems with millions of high-dimensional examples within minutes on a regular computer. We provide command-line and Matlab interfaces to BudgetedSVM, an efficient API for handling large-scale, high- dimensional data sets, as well as detailed documentation to help developers use and further extend the toolbox.",
+    "authors": [
+        "Nemanja Djuric",
+        "Liang Lan",
+        "Slobodan Vucetic",
+        "Zhuang Wang"
+    ],
+    "id": "djuric13a",
+    "issue": 84,
+    "pages": [
+        3813,
+        3817
+    ],
+    "title": "BudgetedSVM: A Toolbox for Scalable SVM Approximations",
+    "volume": 14,
+    "year": 2013
+}

@@ -1,0 +1,30 @@
+{
+    "abstract": "Orange is a machine learning and data mining suite for data analysis through Python scripting and visual programming. Here we report on the scripting part, which features interactive data analysis and component-based assembly of data mining procedures. In the selection and design of components, we focus on the flexibility of their reuse: our principal intention is to let the user write simple and clear scripts in Python, which build upon C$++$ implementations of computationally-intensive tasks. Orange is intended both for experienced users and programmers, as well as for students of data mining.",
+    "authors": [
+        "Janez Dem\\v{s}ar",
+        "Toma\\v{z} Curk",
+        "Ale\\v{s} Erjavec",
+        "\\v{C}rt Gorup",
+        "Toma\\v{z} Ho\\v{c}evar",
+        "Mitar Milutinovi\\v{c}",
+        "Martin Mo\\v{z}ina",
+        "Matija Polajnar",
+        "Marko Toplak",
+        "An\\v{z}e Stari\\v{c}",
+        "Miha \\v{S}tajdohar",
+        "Lan Umek",
+        "Lan \\v{Z}agar",
+        "Jure \\v{Z}bontar",
+        "Marinka \\v{Z}itnik",
+        "Bla\\v{z} Zupan"
+    ],
+    "id": "demsar13a",
+    "issue": 35,
+    "pages": [
+        2349,
+        2353
+    ],
+    "title": "Orange: Data Mining Toolbox in Python",
+    "volume": 14,
+    "year": 2013
+}

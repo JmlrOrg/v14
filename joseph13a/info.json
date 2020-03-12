@@ -1,0 +1,15 @@
+{
+    "abstract": "The performance of orthogonal matching pursuit (OMP) for variable selection is analyzed for random designs. When contrasted with the deterministic case, since the performance is here measured after averaging over the distribution of the design matrix, one can have far less stringent sparsity constraints on the coefficient vector. We demonstrate that for exact sparse vectors, the performance of the OMP is similar to known results on the Lasso algorithm (Wainwright, 2009). Moreover, variable selection under a more relaxed sparsity assumption on the coefficient vector, whereby one has only control on the $\\ell_1$ norm of the smaller coefficients, is also analyzed. As consequence of these results, we also show that the coefficient estimate satisfies strong oracle type inequalities.",
+    "authors": [
+        "Antony Joseph"
+    ],
+    "id": "joseph13a",
+    "issue": 19,
+    "pages": [
+        1771,
+        1800
+    ],
+    "title": "Variable Selection in High-Dimension with Random Designs and Orthogonal Matching Pursuit",
+    "volume": 14,
+    "year": 2013
+}

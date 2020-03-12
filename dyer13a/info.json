@@ -1,0 +1,17 @@
+{
+    "abstract": "Unions of subspaces provide a powerful generalization of single subspace models for collections of high-dimensional data; however, learning multiple subspaces from data is challenging due to the fact that segmentation---the identification of points that live in the same subspace---and subspace estimation must be performed simultaneously. Recently, sparse recovery methods were shown to provide a provable and robust strategy for <em>exact feature selection</em> (EFS)---recovering subsets of points from the ensemble that live in the same subspace. In parallel with recent studies of EFS with $\\ell_1$-minimization, in this paper, we develop sufficient conditions for EFS with a greedy method for sparse signal recovery known as orthogonal matching pursuit (OMP). Following our analysis, we provide an empirical study of feature selection strategies for signals living on unions of subspaces and characterize the gap between sparse recovery methods and nearest neighbor (NN)-based approaches. In particular, we demonstrate that sparse recovery methods provide significant advantages over NN methods and that the gap between the two approaches is particularly pronounced when the sampling of subspaces in the data set is sparse. Our results suggest that OMP may be employed to reliably recover exact feature sets in a number of regimes where NN approaches fail to reveal the subspace membership of points in the ensemble.",
+    "authors": [
+        "Eva L. Dyer",
+        "Aswin C. Sankaranarayanan",
+        "Richard G. Baraniuk"
+    ],
+    "id": "dyer13a",
+    "issue": 40,
+    "pages": [
+        2487,
+        2517
+    ],
+    "title": "Greedy Feature Selection for Subspace Clustering",
+    "volume": 14,
+    "year": 2013
+}

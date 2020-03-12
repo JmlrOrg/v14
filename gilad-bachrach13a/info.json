@@ -1,0 +1,16 @@
+{
+    "abstract": "Typically, one approaches a supervised machine learning problem by writing down an objective function and finding a hypothesis that minimizes it. This is equivalent to finding the Maximum A Posteriori (MAP) hypothesis for a Boltzmann distribution. However, MAP is not a robust statistic. We present an alternative approach by defining a median of the distribution, which we show is both more robust, and has good generalization guarantees. We present algorithms to approximate this median. One contribution of this work is an efficient method for approximating the Tukey median. The Tukey median, which is often used for data visualization and outlier detection, is a special case of the family of medians we define: however, computing it exactly is exponentially slow in the dimension. Our algorithm approximates such medians in polynomial time while making weaker assumptions than those required by previous work.",
+    "authors": [
+        "Ran Gilad-Bachrach",
+        "Christopher J.C. Burges"
+    ],
+    "id": "gilad-bachrach13a",
+    "issue": 77,
+    "pages": [
+        3591,
+        3618
+    ],
+    "title": "Classifier Selection using the Predicate Depth",
+    "volume": 14,
+    "year": 2013
+}

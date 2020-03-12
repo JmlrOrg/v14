@@ -1,0 +1,16 @@
+{
+    "abstract": "We discuss schemes for exact and approximate computations of permanents, and compare them with each other. Specifically, we analyze the belief propagation (BP) approach and its fractional belief propagation (FBP) generalization for computing the permanent of a non-negative matrix. Known bounds and Conjectures are verified in experiments, and some new theoretical relations, bounds and Conjectures are proposed. The fractional free energy (FFE) function is parameterized by a scalar parameter $\\gamma\\in[-1;1]$, where $\\gamma=-1$ corresponds to the BP limit and $\\gamma=1$ corresponds to the exclusion principle (but ignoring perfect matching constraints) mean-field (MF) limit. FFE shows monotonicity and continuity with respect to $\\gamma$. For every non-negative matrix, we define its special value $\\gamma_*\\in[-1;0]$ to be the $\\gamma$ for which the minimum of the $\\gamma$-parameterized FFE function is equal to the permanent of the matrix, where the lower and upper bounds of the $\\gamma$-interval corresponds to respective bounds for the permanent. Our experimental analysis suggests that the distribution of $\\gamma_*$ varies for different ensembles but $\\gamma_*$ always lies within the $[-1;-1/2]$ interval. Moreover, for all ensembles considered, the behavior of $\\gamma_*$ is highly distinctive, offering an empirical practical guidance for estimating permanents of non-negative matrices via the FFE approach.",
+    "authors": [
+        "Michael Chertkov",
+        "Adam B. Yedidia"
+    ],
+    "id": "chertkov13a",
+    "issue": 26,
+    "pages": [
+        2029,
+        2066
+    ],
+    "title": "Approximating the Permanent with Fractional Belief Propagation",
+    "volume": 14,
+    "year": 2013
+}

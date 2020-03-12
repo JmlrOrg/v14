@@ -1,0 +1,18 @@
+{
+    "abstract": "We propose a novel local isometry based dimensionality reduction method from the perspective of vector fields, which is called parallel vector field embedding (PFE). We first give a discussion on local isometry and global isometry to show the intrinsic connection between parallel vector fields and isometry. The problem of finding an isometry turns out to be equivalent to finding orthonormal parallel vector fields on the data manifold. Therefore, we first find orthonormal parallel vector fields by solving a variational problem on the manifold. Then each embedding function can be obtained by requiring its gradient field to be as close to the corresponding parallel vector field as possible. Theoretical results show that our method can precisely recover the manifold if it is isometric to a connected open subset of Euclidean space. Both synthetic and real data examples demonstrate the effectiveness of our method even if there is heavy noise and high curvature.",
+    "authors": [
+        "Binbin Lin",
+        "Xiaofei He",
+        "Chiyuan Zhang",
+        "Ming Ji"
+    ],
+    "id": "lin13a",
+    "issue": 54,
+    "pages": [
+        2945,
+        2977
+    ],
+    "title": "Parallel Vector Field Embedding",
+    "volume": 14,
+    "year": 2013
+}

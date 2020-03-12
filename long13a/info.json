@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the problem of learning an unknown large-margin halfspace in the context of parallel computation, giving both positive and negative results. As our main positive result, we give a parallel algorithm for learning a large-margin halfspace, based on an algorithm of Nesterov's that performs gradient descent with a momentum term. We show that this algorithm can learn an unknown $\\gamma$-margin halfspace over $n$ dimensions using $n \\cdot \\text{poly}(1/\\gamma)$ processors and running in time $\\tilde{O}(1/\\gamma)+O(\\log n)$. In contrast, naive parallel algorithms that learn a $\\gamma$-margin halfspace in time that depends polylogarithmically on $n$ have an inverse quadratic running time dependence on the margin parameter $\\gamma$. Our negative result deals with boosting, which is a standard approach to learning large-margin halfspaces. We prove that in the original PAC framework, in which a weak learning algorithm is provided as an oracle that is called by the booster, boosting cannot be parallelized. More precisely, we show that, if the algorithm is allowed to call the weak learner multiple times in parallel within a single boosting stage, this ability does not reduce the overall number of successive stages of boosting needed for learning by even a single stage. Our proof is information-theoretic and does not rely on unproven assumptions.",
+    "authors": [
+        "Philip M. Long",
+        "Rocco A. Servedio"
+    ],
+    "id": "long13a",
+    "issue": 59,
+    "pages": [
+        3105,
+        3128
+    ],
+    "title": "Algorithms and Hardness Results for Parallel Large Margin Learning",
+    "volume": 14,
+    "year": 2013
+}

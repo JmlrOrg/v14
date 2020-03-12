@@ -1,0 +1,15 @@
+{
+    "abstract": "Low dimensional embeddings of manifold data have gained popularity in the last decade. However, a systematic finite sample analysis of manifold embedding algorithms largely eludes researchers. Here we present two algorithms that embed a general $n$-dimensional manifold into $\\R^d$ (where $d$ only depends on some key manifold properties such as its intrinsic dimension, volume and curvature) that <em>guarantee</em> to approximately preserve all interpoint geodesic distances.",
+    "authors": [
+        "Nakul Verma"
+    ],
+    "id": "verma13a",
+    "issue": 38,
+    "pages": [
+        2415,
+        2448
+    ],
+    "title": "Distance Preserving Embeddings for General n-Dimensional Manifolds",
+    "volume": 14,
+    "year": 2013
+}

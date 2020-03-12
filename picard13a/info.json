@@ -1,0 +1,17 @@
+{
+    "abstract": " <i>JKernelMachines</i> is a Java library for learning with kernels. It is primarily designed to deal with custom kernels that are not easily found in standard libraries, such as kernels on structured data. These types of kernels are often used in computer vision or bioinformatics applications. We provide several kernels leading to state of the art classification performances in computer vision, as well as various kernels on sets. The main focus of the library is to be easily extended with new kernels. Standard SVM optimization algorithms are available, but also more sophisticated learning-based kernel combination methods such as Multiple Kernel Learning (MKL), and a recently published algorithm to learn powered products of similarities (Product Kernel Learning).",
+    "authors": [
+        "David Picard",
+        "Nicolas Thome",
+        "Matthieu Cord"
+    ],
+    "id": "picard13a",
+    "issue": 7,
+    "pages": [
+        1417,
+        1421
+    ],
+    "title": "JKernelMachines: A Simple Framework for Kernel Machines",
+    "volume": 14,
+    "year": 2013
+}

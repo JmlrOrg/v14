@@ -1,0 +1,17 @@
+{
+    "abstract": "A kernel method for realizing Bayes' rule is proposed, based on representations of probabilities in reproducing kernel Hilbert spaces. Probabilities are uniquely characterized by the mean of the canonical map to the RKHS. The prior and conditional probabilities are expressed in terms of RKHS functions of an empirical sample: no explicit parametric model is needed for these quantities. The posterior is likewise an RKHS mean of a weighted sample. The estimator for the expectation of a function of the posterior is derived, and rates of consistency are shown. Some representative applications of the kernel Bayes' rule are presented, including Bayesian computation without likelihood and filtering with a nonparametric state-space model.",
+    "authors": [
+        "Kenji Fukumizu",
+        "Le Song",
+        "Arthur Gretton"
+    ],
+    "id": "fukumizu13a",
+    "issue": 82,
+    "pages": [
+        3753,
+        3783
+    ],
+    "title": "Kernel Bayes' Rule: Bayesian Inference with Positive Definite Kernels",
+    "volume": 14,
+    "year": 2013
+}

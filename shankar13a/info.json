@@ -1,0 +1,16 @@
+{
+    "abstract": "Any learner with the ability to predict the future of a structured time-varying signal must maintain a memory of the recent past. If the signal has a characteristic timescale relevant to future prediction, the memory can be a simple shift register---a moving window extending into the past, requiring storage resources that linearly grows with the timescale to be represented. However, an independent general purpose learner cannot <i>a priori</i> know the characteristic prediction- relevant timescale of the signal. Moreover, many naturally occurring signals show scale-free long range correlations implying that the natural prediction-relevant timescale is essentially unbounded. Hence the learner should maintain information from the longest possible timescale allowed by resource availability. Here we construct a fuzzy memory system that optimally sacrifices the temporal accuracy of information in a scale-free fashion in order to represent prediction- relevant information from exponentially long timescales. Using several illustrative examples, we demonstrate the advantage of the fuzzy memory system over a shift register in time series forecasting of natural signals. When the available storage resources are limited, we suggest that a general purpose learner would be better off committing to such a fuzzy memory system.",
+    "authors": [
+        "Karthik H. Shankar",
+        "Marc W. Howard"
+    ],
+    "id": "shankar13a",
+    "issue": 83,
+    "pages": [
+        3785,
+        3812
+    ],
+    "title": "Optimally Fuzzy Temporal Memory",
+    "volume": 14,
+    "year": 2013
+}

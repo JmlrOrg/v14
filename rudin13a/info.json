@@ -1,0 +1,17 @@
+{
+    "abstract": "We present a theoretical analysis for prediction algorithms based on association rules. As part of this analysis, we introduce a problem for which rules are particularly natural, called \u00e2\u0080\u009csequential event prediction.\" In sequential event prediction, events in a sequence are revealed one by one, and the goal is to determine which event will next be revealed. The training set is a collection of past sequences of events. An example application is to predict which item will next be placed into a customer's online shopping cart, given his/her past purchases. In the context of this problem, algorithms based on association rules have distinct advantages over classical statistical and machine learning methods: they look at correlations based on subsets of co-occurring past events (items a and b imply item c), they can be applied to the sequential event prediction problem in a natural way, they can potentially handle the \u00e2\u0080\u009ccold start\" problem where the training set is small, and they yield interpretable predictions. In this work, we present two algorithms that incorporate association rules. These algorithms can be used both for sequential event prediction and for supervised classification, and they are simple enough that they can possibly be understood by users, customers, patients, managers, etc. We provide generalization guarantees on these algorithms based on algorithmic stability analysis from statistical learning theory. We include a discussion of the strict minimum support threshold often used in association rule mining, and introduce an \u00e2\u0080\u009cadjusted confidence\" measure that provides a weaker minimum support condition that has advantages over the strict minimum support. The paper brings together ideas from statistical learning theory, association rule mining and Bayesian analysis.",
+    "authors": [
+        "Cynthia Rudin",
+        "Benjamin Letham",
+        "David Madigan"
+    ],
+    "id": "rudin13a",
+    "issue": 72,
+    "pages": [
+        3441,
+        3492
+    ],
+    "title": "Learning Theory Analysis for Association Rules and Sequential Event Prediction",
+    "volume": 14,
+    "year": 2013
+}

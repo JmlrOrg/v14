@@ -1,0 +1,15 @@
+{
+    "abstract": "The Neyman-Pearson (NP) paradigm in binary classification treats type I and type II errors with different priorities. It seeks classifiers that minimize type II error, subject to a type I error constraint under a user specified level $\\alpha$. In this paper, plug-in classifiers are developed under the NP paradigm. Based on the fundamental Neyman-Pearson Lemma, we propose two related plug-in classifiers which amount to thresholding respectively the class conditional density ratio and the regression function. These two classifiers handle different sampling schemes. This work focuses on theoretical properties of the proposed classifiers; in particular, we derive oracle inequalities that can be viewed as finite sample versions of risk bounds. NP classification can be used to address anomaly detection problems, where asymmetry in errors is an intrinsic property. As opposed to a common practice in anomaly detection that consists of thresholding normal class density, our approach does not assume a specific form for anomaly distributions. Such consideration is particularly necessary when the anomaly class density is far from uniformly distributed.",
+    "authors": [
+        "Xin Tong"
+    ],
+    "id": "tong13a",
+    "issue": 56,
+    "pages": [
+        3011,
+        3040
+    ],
+    "title": "A Plug-in Approach to Neyman-Pearson Classification",
+    "volume": 14,
+    "year": 2013
+}

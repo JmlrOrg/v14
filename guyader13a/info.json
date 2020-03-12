@@ -1,0 +1,16 @@
+{
+    "abstract": "Motivated by promising experimental results, this paper investigates the theoretical properties of a recently proposed nonparametric estimator, called the Mutual Nearest Neighbors rule, which estimates the regression function $m(\\mathbf{x})=\\mathbb E[Y|\\mathbf{X}=\\mathbf{x}]$ as follows: first identify the $k$ nearest neighbors of $\\mathbf{x}$ in the sample $\\mathcal{D}_n$, then keep only those for which $\\mathbf{x}$ is itself one of the $k$ nearest neighbors, and finally take the average over the corresponding response variables. We prove that this estimator is consistent and that its rate of convergence is optimal. Since the estimate with the optimal rate of convergence depends on the unknown distribution of the observations, we also present adaptation results by data- splitting.",
+    "authors": [
+        "Arnaud Guyader",
+        "Nick Hengartner"
+    ],
+    "id": "guyader13a",
+    "issue": 37,
+    "pages": [
+        2361,
+        2376
+    ],
+    "title": "On the Mutual Nearest Neighbors Estimate in Regression",
+    "volume": 14,
+    "year": 2013
+}

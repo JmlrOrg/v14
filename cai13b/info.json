@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider in this paper the problem of noisy 1-bit matrix completion under a general non-uniform sampling distribution using the max-norm as a convex relaxation for the rank. A max- norm constrained maximum likelihood estimate is introduced and studied. The rate of convergence for the estimate is obtained. Information-theoretical methods are used to establish a minimax lower bound under the general sampling model. The minimax upper and lower bounds together yield the optimal rate of convergence for the Frobenius norm loss. Computational algorithms and numerical performance are also discussed.",
+    "authors": [
+        "Tony Cai",
+        "Wen-Xin Zhou"
+    ],
+    "id": "cai13b",
+    "issue": 78,
+    "pages": [
+        3619,
+        3647
+    ],
+    "title": "A Max-Norm Constrained Minimization Approach to 1-Bit Matrix Completion",
+    "volume": 14,
+    "year": 2013
+}

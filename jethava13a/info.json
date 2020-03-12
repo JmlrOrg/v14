@@ -1,0 +1,18 @@
+{
+    "abstract": "In this paper we establish that the Lov\u00c3\u00a1sz $\\vartheta$ function on a graph can be restated as a kernel learning problem. We introduce the notion of SVM-$\\vartheta$ graphs, on which Lov\u00c3\u00a1sz $\\vartheta$  function can be approximated well by a Support vector machine (SVM). We show that Erd\u00c3\u00b6s-R\u00c3\u00a9nyi random $G(n,p)$ graphs are SVM-$\\vartheta$ graphs for $ \\frac{\\log^4 n}{n} \\le p &lt; 1 $. Even if we embed a large clique of size $\\Theta\\left(\\sqrt{\\frac{np}{1-p}}\\right)$ in a $G(n,p)$ graph the resultant graph still remains a Lov\u00c3\u00a1sz $\\vartheta$ graph. This immediately suggests an SVM based algorithm for recovering a large planted clique in random graphs. Associated with the $\\vartheta$ function is the notion of orthogonal labellings. We introduce <i>common orthogonal labellings</i> which extends the idea of orthogonal labellings to multiple graphs. This allows us to propose a Multiple Kernel learning (MKL) based solution which is capable of identifying a large common dense subgraph in multiple graphs. Both in the planted clique case and common subgraph detection problem the proposed solutions beat the state of the art by an order of magnitude.",
+    "authors": [
+        "Vinay Jethava",
+        "Anders Martinsson",
+        "Chiranjib Bhattacharyya",
+        "Devdatt Dubhashi"
+    ],
+    "id": "jethava13a",
+    "issue": 74,
+    "pages": [
+        3495,
+        3536
+    ],
+    "title": "Lovasz theta function, SVMs and Finding Dense Subgraphs",
+    "volume": 14,
+    "year": 2013
+}

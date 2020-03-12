@@ -1,0 +1,18 @@
+{
+    "abstract": "We propose the novel approach of dynamic affine-invariant shape- appearance model (Aff-SAM) and employ it for handshape classification and sign recognition in sign language (SL) videos. Aff-SAM offers a compact and descriptive representation of hand configurations as well as regularized model-fitting, assisting hand tracking and extracting handshape features. We construct SA images representing the hand's shape and appearance <i>without</i> landmark points. We model the variation of the images by linear combinations of eigenimages followed by affine transformations, accounting for 3D hand pose changes and improving model's compactness. We also incorporate static and dynamic handshape priors, offering robustness in occlusions, which occur often in signing. The approach includes an <i>affine signer adaptation</i> component at the visual level, without requiring training from scratch a new singer-specific model. We rather employ a short development data set to adapt the models for a new signer. Experiments on the Boston- University-400 continuous SL corpus demonstrate improvements on handshape classification when compared to other feature extraction approaches. Supplementary evaluations of sign recognition experiments, are conducted on a multi-signer, 100-sign data set, from the Greek sign language lemmas corpus. These explore the fusion with movement cues as well as signer adaptation of Aff- SAM to multiple signers providing promising results.",
+    "authors": [
+        "Anastasios Roussos",
+        "Stavros Theodorakis",
+        "Vassilis Pitsikalis",
+        "Petros Maragos"
+    ],
+    "id": "roussos13a",
+    "issue": 15,
+    "pages": [
+        1627,
+        1663
+    ],
+    "title": "Dynamic Affine-Invariant Shape-Appearance Handshape Features and Classification in Sign Language Videos",
+    "volume": 14,
+    "year": 2013
+}

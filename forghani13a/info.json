@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper comments on the published work dealing with <a href=\"http://jmlr.org/papers/v10/xu09b.html\">robustness and regularization of support vector machines</a> (Journal of Machine Learning Research, Vol. 10, pp. 1485-1510, 2009) by H. Xu et al. They proposed a theorem to show that it is possible to relate robustness in the feature space and robustness in the sample space directly. In this paper, we propose a counter example that rejects their theorem.",
+    "authors": [
+        "Yahya Forghani",
+        "Hadi Sadoghi"
+    ],
+    "id": "forghani13a",
+    "issue": 73,
+    "pages": [
+        3493,
+        3494
+    ],
+    "title": "Comment on \"Robustness and Regularization of Support Vector Machines\" by H. Xu et al. (Journal of Machine Learning Research, vol. 10, pp. 1485-1510, 2009)",
+    "volume": 14,
+    "year": 2013
+}

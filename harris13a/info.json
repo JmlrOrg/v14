@@ -1,0 +1,16 @@
+{
+    "abstract": "The PC algorithm uses conditional independence tests for model selection in graphical modeling with acyclic directed graphs. In Gaussian models, tests of conditional independence are typically based on Pearson correlations, and high-dimensional consistency results have been obtained for the PC algorithm in this setting. Analyzing the error propagation from marginal to partial correlations, we prove that high-dimensional consistency carries over to a broader class of Gaussian copula or <i>nonparanormal</i> models when using rank-based measures of correlation. For graph sequences with bounded degree, our consistency result is as strong as prior Gaussian results. In simulations, the `Rank PC' algorithm works as well as the `Pearson PC' algorithm for normal data and considerably better for non-normal data, all the while incurring a negligible increase of computation time. While our interest is in the PC algorithm, the presented analysis of error propagation could be applied to other algorithms that test the vanishing of low-order partial correlations.",
+    "authors": [
+        "Naftali Harris",
+        "Mathias Drton"
+    ],
+    "id": "harris13a",
+    "issue": 69,
+    "pages": [
+        3365,
+        3383
+    ],
+    "title": "PC Algorithm for Nonparanormal Graphical Models",
+    "volume": 14,
+    "year": 2013
+}

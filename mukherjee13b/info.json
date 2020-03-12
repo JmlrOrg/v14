@@ -1,0 +1,17 @@
+{
+    "abstract": "The AdaBoost algorithm was designed to combine many \u00e2\u0080\u009cweak\u00e2\u0080\u009d hypotheses that perform slightly better than random guessing into a \u00e2\u0080\u009cstrong\u00e2\u0080\u009d hypothesis that has very low error. We study the rate at which AdaBoost iteratively converges to the minimum of the \u00e2\u0080\u009cexponential loss\u00e2\u0080\u009d. Unlike previous work, our proofs do not require a weak-learning assumption, nor do they require that minimizers of the exponential loss are finite. Our first result shows that the exponential loss of AdaBoost's computed parameter vector will be at most $\\varepsilon$ more than that of any parameter vector of $\\ell_1$-norm bounded by $B$ in a number of rounds that is at most a polynomial in $B$ and $1/\\varepsilon$. We also provide lower bounds showing that a polynomial dependence is necessary. Our second result is that within $C/\\varepsilon$ iterations, AdaBoost achieves a value of the exponential loss that is at most $\\varepsilon$ more than the best possible value, where $C$ depends on the data set. We show that this dependence of the rate on $\\varepsilon$ is optimal up to constant factors, that is, at least $\\Omega(1/\\varepsilon)$ rounds are necessary to achieve within $\\varepsilon$ of the optimal exponential loss.",
+    "authors": [
+        "Indraneel Mukherjee",
+        "Cynthia Rudin",
+        "Robert E. Schapire"
+    ],
+    "id": "mukherjee13b",
+    "issue": 34,
+    "pages": [
+        2315,
+        2347
+    ],
+    "title": "The Rate of Convergence of AdaBoost",
+    "volume": 14,
+    "year": 2013
+}

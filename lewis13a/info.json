@@ -1,0 +1,17 @@
+{
+    "abstract": "Divvy is an application for applying unsupervised machine learning techniques (clustering and dimensionality reduction) to the data analysis process. Divvy provides a novel UI that allows researchers to tighten the action-perception loop of changing algorithm parameters and seeing a visualization of the result. Machine learning researchers can use Divvy to publish easy to use reference implementations of their algorithms, which helps the machine learning field have a greater impact on research practices elsewhere.",
+    "authors": [
+        "Joshua M. Lewis",
+        "Virginia R. de Sa",
+        "Laurens van der Maaten"
+    ],
+    "id": "lewis13a",
+    "issue": 62,
+    "pages": [
+        3159,
+        3163
+    ],
+    "title": "Divvy: Fast and Intuitive Exploratory Data Analysis",
+    "volume": 14,
+    "year": 2013
+}

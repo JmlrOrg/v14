@@ -1,0 +1,16 @@
+{
+    "abstract": "We present a suite of algorithms for Dimension Independent Similarity Computation (DISCO) to compute all pairwise similarities between very high-dimensional sparse vectors. All of our results are provably independent of dimension, meaning that apart from the initial cost of trivially reading in the data, all subsequent operations are independent of the dimension; thus the dimension can be very large. We study Cosine, Dice, Overlap, and the Jaccard similarity measures. For Jaccard similarity we include an improved version of MinHash. Our results are geared toward the MapReduce framework. We empirically validate our theorems with large scale experiments using data from the social networking site Twitter. At time of writing, our algorithms are live in production at twitter.com.",
+    "authors": [
+        "Reza Bosagh Zadeh",
+        "Ashish Goel"
+    ],
+    "id": "bosagh-zadeh13a",
+    "issue": 14,
+    "pages": [
+        1605,
+        1626
+    ],
+    "title": "Dimension Independent Similarity Computation",
+    "volume": 14,
+    "year": 2013
+}

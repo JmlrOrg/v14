@@ -1,0 +1,17 @@
+{
+    "abstract": "We present language-motivated approaches to detecting, localizing and classifying activities and gestures in videos. In order to obtain statistical insight into the underlying patterns of motions in activities, we develop a dynamic, hierarchical Bayesian model which connects low-level visual features in videos with poses, motion patterns and classes of activities. This process is somewhat analogous to the method of detecting topics or categories from documents based on the word content of the documents, except that our documents are dynamic. The proposed generative model harnesses both the temporal ordering power of dynamic Bayesian networks such as hidden Markov models (HMMs) and the automatic clustering power of hierarchical Bayesian models such as the latent Dirichlet allocation (LDA) model. We also introduce a probabilistic framework for detecting and localizing pre-specified activities (or gestures) in a video sequence, analogous to the use of filler models for keyword detection in speech processing. We demonstrate the robustness of our classification model and our spotting framework by recognizing activities in unconstrained real-life video sequences and by spotting gestures via a one-shot-learning approach.",
+    "authors": [
+        "Manavender R. Malgireddy",
+        "Ifeoma Nwogu",
+        "Venu Govindaraju"
+    ],
+    "id": "malgireddy13a",
+    "issue": 30,
+    "pages": [
+        2189,
+        2212
+    ],
+    "title": "Language-Motivated Approaches to Action Recognition",
+    "volume": 14,
+    "year": 2013
+}

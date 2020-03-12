@@ -1,0 +1,16 @@
+{
+    "abstract": "Supervised learning from high-dimensional data, for example, multimedia data, is a challenging task. We propose an extension of slow feature analysis (SFA) for <i>supervised</i> dimensionality reduction called graph-based SFA (GSFA). The algorithm extracts a label-predictive low-dimensional set of features that can be post-processed by typical supervised algorithms to generate the final label or class estimation. GSFA is trained with a so-called training graph, in which the vertices are the samples and the edges represent similarities of the corresponding labels. A new weighted SFA optimization problem is introduced, generalizing the notion of slowness from sequences of samples to such training graphs. We show that GSFA computes an optimal solution to this problem in the considered function space and propose several types of training graphs. For classification, the most straightforward graph yields features equivalent to those of (nonlinear) Fisher discriminant analysis. Emphasis is on regression, where four different graphs were evaluated experimentally with a subproblem of face detection on photographs. The method proposed is promising particularly when linear models are insufficient as well as when feature selection is difficult.",
+    "authors": [
+        "Alberto N. Escalante-B.",
+        "Laurenz Wiskott"
+    ],
+    "id": "escalante13a",
+    "issue": 80,
+    "pages": [
+        3683,
+        3719
+    ],
+    "title": "How to Solve Classification and Regression Problems on High-Dimensional Data with a Supervised Extension of Slow Feature Analysis",
+    "volume": 14,
+    "year": 2013
+}

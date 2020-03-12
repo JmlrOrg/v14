@@ -1,0 +1,17 @@
+{
+    "abstract": "Randomized controlled experiments are often described as the most reliable tool available to scientists for discovering causal relationships among quantities of interest. However, it is often unclear how many and which different experiments are needed to identify the full (possibly cyclic) causal structure among some given (possibly causally insufficient) set of variables. Recent results in the causal discovery literature have explored various identifiability criteria that depend on the assumptions one is able to make about the underlying causal process, but these criteria are not directly constructive for selecting the optimal set of experiments. Fortunately, many of the needed constructions already exist in the combinatorics literature, albeit under terminology which is unfamiliar to most of the causal discovery community. In this paper we translate the theoretical results and apply them to the concrete problem of experiment selection. For a variety of settings we give explicit constructions of the optimal set of experiments and adapt some of the general combinatorics results to answer questions relating to the problem of experiment selection.",
+    "authors": [
+        "Antti Hyttinen",
+        "Frederick Eberhardt",
+        "Patrik O. Hoyer"
+    ],
+    "id": "hyttinen13a",
+    "issue": 57,
+    "pages": [
+        3041,
+        3071
+    ],
+    "title": "Experiment Selection for Causal Discovery",
+    "volume": 14,
+    "year": 2013
+}

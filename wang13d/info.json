@@ -1,0 +1,22 @@
+{
+    "abstract": "We describe a <code>R-Java CAM</code> (convex analysis of mixtures) package that provides comprehensive analytic functions and a graphic user interface (<code>GUI</code>) for blindly separating mixed nonnegative sources. This open-source multiplatform software implements recent and classic algorithms in the literature including Chan et al. (2008), Wang et al. (2010), Chen et al. (2011a) and Chen et al. (2011b). The <code>CAM</code> package offers several attractive features: (1) instead of using proprietary  <code>MATLAB</code>, its analytic functions are written in <code>R</code>, which makes the codes more portable and easier to modify; (2) besides producing and plotting results in <code>R</code>, it also provides a <code>Java GUI</code> for automatic progress update and convenient visual monitoring; (3) multi-thread interactions between the <code>R</code> and <code>Java</code> modules are driven and integrated by a <code>Java GUI</code>, assuring that the whole <code>CAM</code> software runs responsively; (4) the package offers a simple mechanism to allow others to plug-in additional <code>R</code>-functions.",
+    "authors": [
+        "Niya Wang",
+        "Fan Meng",
+        "Li Chen",
+        "Subha Madhavan",
+        "Robert Clarke",
+        "Eric P. Hoffman",
+        "Jianhua Xuan",
+        "Yue Wang"
+    ],
+    "id": "wang13d",
+    "issue": 52,
+    "pages": [
+        2899,
+        2903
+    ],
+    "title": "The CAM Software for Nonnegative Blind Source Separation in R-Java",
+    "volume": 14,
+    "year": 2013
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper studies the asymptotic behaviors of the pairwise angles among $n$ randomly and uniformly distributed unit vectors in $\\mathbb{R}^p$ as the number of points $n\\rightarrow \\infty$, while the dimension $p$ is either fixed or growing with $n$. For both settings, we derive the limiting empirical distribution of the random angles and the limiting distributions of the extreme angles. The results reveal interesting differences in the two settings and provide a precise characterization of the folklore that \u00e2\u0080\u009call high-dimensional random vectors are almost always nearly orthogonal to each other\". Applications to statistics and machine learning and connections with some open problems in physics and mathematics are also discussed.",
+    "authors": [
+        "Tony Cai",
+        "Jianqing Fan",
+        "Tiefeng Jiang"
+    ],
+    "id": "cai13a",
+    "issue": 21,
+    "pages": [
+        1837,
+        1864
+    ],
+    "title": "Distributions of Angles in Random Packing on Spheres",
+    "volume": 14,
+    "year": 2013
+}

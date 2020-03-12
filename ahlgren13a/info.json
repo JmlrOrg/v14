@@ -1,0 +1,16 @@
+{
+    "abstract": "We present NrSample, a framework for program synthesis in inductive logic programming. NrSample uses propositional logic constraints to exclude undesirable candidates from the search. This is achieved by representing constraints as propositional formulae and solving the associated constraint satisfaction problem. We present a variety of such constraints: pruning, input-output, functional (arithmetic), and variable splitting. NrSample is also capable of detecting search space exhaustion, leading to further speedups in clause induction and optimality. We benchmark NrSample against enumeration search (Aleph's default) and Progol's $A^{*}$ search in the context of program synthesis. The results show that, on large program synthesis problems, NrSample induces between 1 and 1358 times faster than enumeration (236 times faster on average), always with similar or better accuracy. Compared to Progol $A^{*}$, NrSample is 18 times faster on average with similar or better accuracy except for two problems: one in which Progol $A^{*}$ substantially sacrificed accuracy to induce faster, and one in which Progol $A^{*}$ was a clear winner. Functional constraints provide a speedup of up to 53 times (21 times on average) with similar or better accuracy. We also benchmark using a few concept learning (non-program synthesis) problems. The results indicate that without strong constraints, the overhead of solving constraints is not compensated for.",
+    "authors": [
+        "John Ahlgren",
+        "Shiu Yin Yuen"
+    ],
+    "id": "ahlgren13a",
+    "issue": 79,
+    "pages": [
+        3649,
+        3681
+    ],
+    "title": "Efficient Program Synthesis Using Constraint Satisfaction in Inductive Logic Programming",
+    "volume": 14,
+    "year": 2013
+}

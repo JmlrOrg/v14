@@ -1,0 +1,16 @@
+{
+    "abstract": "Principal curves and manifolds provide a framework to formulate manifold learning within a statistical context. Principal curves define the notion of a curve passing through the middle of a distribution. While the intuition is clear, the formal definition leads to some technical and practical difficulties. In particular, principal curves are saddle points of the mean- squared projection distance, which poses severe challenges for estimation and model selection. This paper demonstrates that the difficulties in model selection associated with the saddle point property of principal curves are intrinsically tied to the minimization of the mean-squared projection distance. We introduce a new objective function, facilitated through a modification of the principal curve estimation approach, for which all critical points are principal curves and minima. Thus, the new formulation removes the fundamental issue for model selection in principal curve estimation. A gradient-descent- based estimator demonstrates the effectiveness of the new formulation for controlling model complexity on numerical experiments with synthetic and real data.",
+    "authors": [
+        "Samuel Gerber",
+        "Ross Whitaker"
+    ],
+    "id": "gerber13a",
+    "issue": 3,
+    "pages": [
+        1285,
+        1302
+    ],
+    "title": "Regularization-Free Principal Curve Estimation",
+    "volume": 14,
+    "year": 2013
+}

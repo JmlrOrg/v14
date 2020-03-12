@@ -1,0 +1,16 @@
+{
+    "abstract": "The CUR matrix decomposition and the Nystrom approximation are two important low-rank matrix approximation techniques. The Nystrom method approximates a symmetric positive semidefinite matrix in terms of a small number of its columns, while CUR approximates an arbitrary data matrix by a small number of its columns and rows. Thus, CUR decomposition can be regarded as an extension of the Nystrom approximation. In this paper we establish a more general error bound for the adaptive column/row sampling algorithm, based on which we propose more accurate CUR and Nystrom algorithms with expected relative-error bounds. The proposed CUR and Nystrom algorithms also have low time complexity and can avoid maintaining the whole data matrix in RAM. In addition, we give theoretical analysis for the lower error bounds of the standard Nystrom method and the ensemble Nystrom method. The main theoretical results established in this paper are novel, and our analysis makes no special assumption on the data matrices.",
+    "authors": [
+        "Shusen Wang",
+        "Zhihua Zhang"
+    ],
+    "id": "wang13c",
+    "issue": 47,
+    "pages": [
+        2729,
+        2769
+    ],
+    "title": "Improving CUR Matrix Decomposition and the Nystrom Approximation via Adaptive Sampling",
+    "volume": 14,
+    "year": 2013
+}

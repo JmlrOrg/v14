@@ -1,0 +1,17 @@
+{
+    "abstract": "We study pool-based active learning of half-spaces. We revisit the aggressive approach for active learning in the realizable case, and show that it can be made efficient and practical, while also having theoretical guarantees under reasonable assumptions. We further show, both theoretically and experimentally, that it can be preferable to mellow approaches. Our efficient aggressive active learner of half-spaces has formal approximation guarantees that hold when the pool is separable with a margin. While our analysis is focused on the realizable setting, we show that a simple heuristic allows using the same algorithm successfully for pools with low error as well. We further compare the aggressive approach to the mellow approach, and prove that there are cases in which the aggressive approach results in significantly better label complexity compared to the mellow approach. We demonstrate experimentally that substantial improvements in label complexity can be achieved using the aggressive approach, for both realizable and low-error settings.",
+    "authors": [
+        "Alon Gonen",
+        "Sivan Sabato",
+        "Shai Shalev-Shwartz"
+    ],
+    "id": "gonen13a",
+    "issue": 43,
+    "pages": [
+        2583,
+        2615
+    ],
+    "title": "Efficient Active Learning of Halfspaces: An Aggressive Approach",
+    "volume": 14,
+    "year": 2013
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Constraint-based learning of Bayesian networks (BN) from limited data can lead to multiple testing problems when recovering dense areas of the skeleton and to conflicting results in the orientation of edges. In this paper, we present a new constraint-based algorithm, light mutual min (LMM) for improved accuracy of BN learning from small sample data. LMM improves the assessment of candidate edges by using a ranking criterion that considers conditional independence on neighboring variables at both sides of an edge simultaneously. The algorithm also employs an adaptive relaxation of constraints that, selectively, allows some nodes not to condition on some neighbors. This relaxation aims at reducing the incorrect rejection of true edges connecting high degree nodes due to multiple testing. LMM additionally incorporates a new criterion for ranking v-structures that is used to recover the completed partially directed acyclic graph (CPDAG) and to resolve conflicting v-structures, a common problem in small sample constraint-based learning. Using simulated data, each of these components of LMM is shown to significantly improve network inference compared to commonly applied methods when learning from limited data, including more accurate recovery of skeletons and CPDAGs compared to the PC, MaxMin, and MaxMin hill climbing algorithms. A proof of asymptotic correctness is also provided for LMM for recovering the correct skeleton and CPDAG.",
+    "authors": [
+        "Rami Mahdi",
+        "Jason Mezey"
+    ],
+    "id": "mahdi13a",
+    "issue": 13,
+    "pages": [
+        1563,
+        1603
+    ],
+    "title": "Sub-Local Constraint-Based Learning of Bayesian Networks Using A Joint Dependence Criterion",
+    "volume": 14,
+    "year": 2013
+}

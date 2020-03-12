@@ -1,0 +1,15 @@
+{
+    "abstract": "Manifold regularization (Belkin et al., 2006) is a geometrically motivated framework for machine learning within which several semi- supervised algorithms have been constructed. Here we try to provide some theoretical understanding of this approach. Our main result is to expose the natural structure of a class of problems on which manifold regularization methods are helpful. We show that for such problems, no supervised learner can learn effectively. On the other hand, a manifold based learner (that knows the manifold or \u00e2\u0080\u009clearns\u00e2\u0080\u009d it from unlabeled examples) can learn with relatively few labeled examples. Our analysis follows a minimax style with an emphasis on finite sample results (in terms of $n$: the number of labeled examples). These results allow us to properly interpret manifold regularization and related spectral and geometric algorithms in terms of their potential use in semi-supervised learning.",
+    "authors": [
+        "Partha Niyogi"
+    ],
+    "id": "niyogi13a",
+    "issue": 1,
+    "pages": [
+        1229,
+        1250
+    ],
+    "title": "Manifold Regularization and Semi-supervised Learning: Some Theoretical Analyses",
+    "volume": 14,
+    "year": 2013
+}

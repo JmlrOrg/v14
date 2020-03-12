@@ -1,0 +1,17 @@
+{
+    "abstract": "The task of matching data from two heterogeneous domains naturally arises in various areas such as web search, collaborative filtering, and drug design. In web search, existing work has designed relevance models to match queries and documents by exploiting either user clicks or content of queries and documents. To the best of our knowledge, however, there has been little work on principled approaches to leveraging both clicks and content to learn a matching model for search. In this paper, we propose a framework for learning to match heterogeneous objects. The framework learns two linear mappings for two objects respectively, and matches them via the dot product of their images after mapping. Moreover, when different regularizations are enforced, the framework renders a rich family of matching models. With orthonormal constraints on mapping functions, the framework subsumes Partial Least Squares (PLS) as a special case. Alternatively, with a $\\ell_1$+$\\ell_2$ regularization, we obtain a new model called <em>Regularized Mapping to Latent Structures</em> (RMLS). RMLS enjoys many advantages over PLS, including lower time complexity and easy parallelization. To further understand the matching framework, we conduct generalization analysis and apply the result to both PLS and RMLS. We apply the framework to web search and implement both PLS and RMLS using a click-through bipartite with metadata representing features of queries and documents. We test the efficacy and scalability of RMLS and PLS on large scale web search problems. The results show that both PLS and RMLS can significantly outperform baseline methods, while RMLS substantially speeds up the learning process.",
+    "authors": [
+        "Wei Wu",
+        "Zhengdong  Lu",
+        "Hang Li"
+    ],
+    "id": "wu13a",
+    "issue": 41,
+    "pages": [
+        2519,
+        2548
+    ],
+    "title": "Learning Bilinear Model for Matching Queries and Documents",
+    "volume": 14,
+    "year": 2013
+}

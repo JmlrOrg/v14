@@ -1,0 +1,16 @@
+{
+    "abstract": "Markov jump processes (or continuous-time Markov chains) are a simple and important class of continuous-time dynamical systems. In this paper, we tackle the problem of simulating from the posterior distribution over paths in these models, given partial and noisy observations. Our approach is an auxiliary variable Gibbs sampler, and is based on the idea of <i>uniformization</i>. This sets up a Markov chain over paths by alternately sampling a finite set of virtual jump times given the current path, and then sampling a new path given the set of extant and virtual jump times. The first step involves simulating a piecewise-constant inhomogeneous Poisson process, while for the second, we use a standard hidden Markov model forward filtering-backward sampling algorithm. Our method is exact and does not involve approximations like time- discretization. We demonstrate how our sampler extends naturally to MJP-based models like Markov-modulated Poisson processes and continuous-time Bayesian networks, and show significant computational benefits over state-of-the-art MCMC samplers for these models.",
+    "authors": [
+        "Vinayak Rao",
+        "Yee Whye Teh"
+    ],
+    "id": "rao13a",
+    "issue": 67,
+    "pages": [
+        3295,
+        3320
+    ],
+    "title": "Fast MCMC Sampling for Markov Jump Processes and Extensions",
+    "volume": 14,
+    "year": 2013
+}

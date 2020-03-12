@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the problem of finding a directed acyclic graph (DAG) that optimizes a decomposable Bayesian network score. While in a favorable case an optimal DAG can be found in polynomial time, in the worst case the fastest known algorithms rely on dynamic programming across the node subsets, taking time and space $2^n$, to within a factor polynomial in the number of nodes $n$. In practice, these algorithms are feasible to networks of at most around 30 nodes, mainly due to the large space requirement. Here, we generalize the dynamic programming approach to enhance its feasibility in three dimensions: first, the user may trade space against time; second, the proposed algorithms easily and efficiently parallelize onto thousands of processors; third, the algorithms can exploit any prior knowledge about the precedence relation on the nodes. Underlying all these results is the key observation that, given a partial order $P$ on the nodes, an optimal DAG compatible with $P$ can be found in time and space roughly proportional to the number of ideals of $P$, which can be significantly less than $2^n$. Considering sufficiently many carefully chosen partial orders guarantees that a globally optimal DAG will be found. Aside from the generic scheme, we present and analyze concrete tradeoff schemes based on parallel bucket orders.",
+    "authors": [
+        "Pekka Parviainen",
+        "Mikko Koivisto"
+    ],
+    "id": "parviainen13a",
+    "issue": 6,
+    "pages": [
+        1387,
+        1415
+    ],
+    "title": "Finding Optimal Bayesian Networks Using Precedence Constraints",
+    "volume": 14,
+    "year": 2013
+}

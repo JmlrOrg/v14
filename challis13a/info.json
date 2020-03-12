@@ -1,0 +1,16 @@
+{
+    "abstract": "We investigate Gaussian Kullback-Leibler (G-KL) variational approximate inference techniques for Bayesian generalised linear models and various extensions. In particular we make the following novel contributions: sufficient conditions for which the G-KL objective is differentiable and convex are described; constrained parameterisations of Gaussian covariance that make G-KL methods fast and scalable are provided; the lower bound to the normalisation constant provided by G-KL methods is proven to dominate those provided by local lower bounding methods; complexity and model applicability issues of G-KL versus other Gaussian approximate inference methods are discussed. Numerical results comparing G-KL and other deterministic Gaussian approximate inference methods are presented for: robust Gaussian process regression models with either Student-$t$ or Laplace likelihoods, large scale Bayesian binary logistic regression models, and Bayesian sparse linear models for sequential experimental design.",
+    "authors": [
+        "Edward Challis",
+        "David Barber"
+    ],
+    "id": "challis13a",
+    "issue": 32,
+    "pages": [
+        2239,
+        2286
+    ],
+    "title": "Gaussian Kullback-Leibler Approximate Inference",
+    "volume": 14,
+    "year": 2013
+}

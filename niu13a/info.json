@@ -1,0 +1,18 @@
+{
+    "abstract": "The <em>large volume principle</em> proposed by Vladimir Vapnik, which advocates that hypotheses lying in an equivalence class with a larger volume are more preferable, is a useful alternative to the <em>large margin principle</em>. In this paper, we introduce a new discriminative clustering model based on the large volume principle called <em>maximum volume clustering</em> (MVC), and then propose two approximation schemes to solve this MVC model: A soft-label MVC method using <em>sequential quadratic programming</em> and a hard-label MVC method using <em> semi-definite programming</em>, respectively. The proposed MVC is theoretically advantageous for three reasons. The optimization involved in hard-label MVC is convex, and under mild conditions, the optimization involved in soft-label MVC is akin to a convex one in terms of the resulting clusters. Secondly, the soft-label MVC method possesses a <em>clustering error bound</em>. Thirdly, MVC includes the optimization problems of a spectral clustering, two relaxed $k$-means clustering and an information-maximization clustering as <em>special limit cases</em> when its regularization parameter goes to infinity. Experiments on several artificial and benchmark data sets demonstrate that the proposed MVC compares favorably with state-of-the-art clustering methods.",
+    "authors": [
+        "Gang Niu",
+        "Bo Dai",
+        "Lin Shang",
+        "Masashi Sugiyama"
+    ],
+    "id": "niu13a",
+    "issue": 45,
+    "pages": [
+        2641,
+        2687
+    ],
+    "title": "Maximum Volume Clustering: A New Discriminative Clustering Approach",
+    "volume": 14,
+    "year": 2013
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": " <p>We introduce a new class of quadratic support (QS) functions, many of which already play a crucial role in a variety of applications, including machine learning, robust statistical inference, sparsity promotion, and inverse problems such as Kalman smoothing. Well known examples of QS penalties include the $\\ell_2$, Huber, $\\ell_1$ and Vapnik losses. We build on a dual representation for QS functions, using it to characterize conditions necessary to interpret these functions as negative logs of true probability densities. This interpretation establishes the foundation for statistical modeling with both known and new QS loss functions, and enables construction of non-smooth multivariate distributions with specified means and variances from simple scalar building blocks.</p> <p>The main contribution of this paper is a flexible statistical modeling framework for a variety of learning applications, together with a toolbox of efficient numerical methods for estimation. In particular, a broad subclass of QS loss functions known as piecewise linear quadratic (PLQ) penalties has a dual representation that can be exploited to design interior point (IP) methods. IP methods solve nonsmooth optimization problems by working directly with smooth systems of equations characterizing their optimality. We provide several numerical examples, along with a code that can be used to solve general PLQ problems.</p> <p>The efficiency of the IP approach depends on the structure of particular applications. We consider the class of dynamic inverse problems using Kalman smoothing. This class comprises a wide variety of applications, where the aim is to reconstruct the state of a dynamical system with known process and measurement models starting from noisy output samples. In the classical case, Gaussian errors are assumed both in the process and measurement models for such problems. We show that the extended framework allows arbitrary PLQ densities to be used, and that the proposed IP approach solves the generalized Kalman smoothing problem while maintaining the linear complexity in the size of the time series, just as in the Gaussian case. This extends the computational efficiency of the Mayne-Fraser and Rauch-Tung- Striebel algorithms to a much broader nonsmooth setting, and includes many recently proposed robust and sparse smoothers as special cases.</p>",
+    "authors": [
+        "Aleks",
+        "r Y. Aravkin",
+        "James V. Burke",
+        "Gianluigi Pillonetto"
+    ],
+    "id": "aravkin13a",
+    "issue": 46,
+    "pages": [
+        2689,
+        2728
+    ],
+    "title": "Sparse/Robust Estimation and Kalman Smoothing with Nonsmooth Log-Concave Densities: Modeling, Computation, and Theory",
+    "volume": 14,
+    "year": 2013
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "We develop stochastic variational inference, a scalable algorithm for approximating posterior distributions. We develop this technique for a large class of probabilistic models and we demonstrate it with two probabilistic topic models, latent Dirichlet allocation and the hierarchical Dirichlet process topic model. Using stochastic variational inference, we analyze several large collections of documents: 300K articles from <i>Nature</i>, 1.8M articles from <i>The New York Times</i>, and 3.8M articles from <i>Wikipedia</i>. Stochastic inference can easily handle data sets of this size and outperforms traditional variational inference, which can only handle a smaller subset. (We also show that the Bayesian nonparametric topic model outperforms its parametric counterpart.) Stochastic variational inference lets us apply complex Bayesian models to massive data sets.",
+    "authors": [
+        "Matthew D. Hoffman",
+        "David M. Blei",
+        "Chong Wang",
+        "John Paisley"
+    ],
+    "id": "hoffman13a",
+    "issue": 4,
+    "pages": [
+        1303,
+        1347
+    ],
+    "title": "Stochastic Variational Inference",
+    "volume": 14,
+    "year": 2013
+}

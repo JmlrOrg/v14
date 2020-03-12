@@ -1,0 +1,24 @@
+{
+    "abstract": "This work shows how to leverage causal inference to understand the behavior of complex learning systems interacting with their environment and predict the consequences of changes to the system. Such predictions allow both humans and algorithms to select the changes that would have improved the system performance. This work is illustrated by experiments on the ad placement system associated with the Bing search engine.",
+    "authors": [
+        "L\\'{e}on Bottou",
+        "Jonas Peters",
+        "Joaquin Qui\\~{n}onero-C",
+        "ela",
+        "Denis X. Charles",
+        "D. Max Chickering",
+        "Elon Portugaly",
+        "Dipankar Ray",
+        "Patrice Simard",
+        "Ed Snelson"
+    ],
+    "id": "bottou13a",
+    "issue": 65,
+    "pages": [
+        3207,
+        3260
+    ],
+    "title": "Counterfactual Reasoning and Learning Systems: The Example of Computational Advertising",
+    "volume": 14,
+    "year": 2013
+}
