@@ -2,7 +2,7 @@
     "abstract": "Despite the simplicity of the Naive Bayes classifier, it has continued to perform well against more sophisticated newcomers and has remained, therefore, of great interest to the machine learning community. Of numerous approaches to refining the naive Bayes classifier, attribute weighting has received less attention than it warrants. Most approaches, perhaps influenced by attribute weighting in other machine learning algorithms, use weighting to place more emphasis on highly predictive attributes than those that are less predictive. In this paper, we argue that for naive Bayes attribute weighting should instead be used to alleviate the conditional independence assumption. Based on this premise, we propose a weighted naive Bayes algorithm, called WANBIA, that selects weights to minimize either the negative conditional log likelihood or the mean squared error objective functions. We perform extensive evaluations and find that WANBIA is a competitive alternative to state of the art classifiers like Random Forest, Logistic Regression and A1DE.",
     "authors": [
         "Nayyar A. Zaidi",
-        "Jes{\\'u}s Cerquides",
+        "Jes{{\\'u}}s Cerquides",
         "Mark J. Carman",
         "Geoffrey I. Webb"
     ],

@@ -1,8 +1,8 @@
 {
     "abstract": "We describe a Bayesian method for group feature selection in linear regression problems. The method is based on a generalized version of the standard spike-and-slab prior distribution which is often used for individual feature selection. Exact Bayesian inference under the prior considered is infeasible for typical regression problems. However, approximate inference can be carried out efficiently using Expectation Propagation (EP). A detailed analysis of the generalized spike-and-slab prior shows that it is well suited for regression problems that are sparse at the group level. Furthermore, this prior can be used to introduce prior knowledge about specific groups of features that are <em>a priori</em> believed to be more relevant. An experimental evaluation compares the performance of the proposed method with those of group LASSO, Bayesian group LASSO, automatic relevance determination and additional variants used for group feature selection. The results of these experiments show that a model based on the generalized spike-and-slab prior and the EP algorithm has state-of-the-art prediction performance in the problems analyzed. Furthermore, this model is also very useful to carry out sequential experimental design (also known as active learning), where the data instances that are most informative are iteratively included in the training set, reducing the number of instances needed to obtain a particular level of prediction accuracy.",
     "authors": [
-        "Daniel Hern{\\'a}ndez-Lobato",
-        "Jos{\\'e} Miguel Hern{\\'a}ndez-Lobato",
+        "Daniel Hern{{\\'a}}ndez-Lobato",
+        "Jos{{\\'e}} Miguel Hern{{\\'a}}ndez-Lobato",
         "Pierre Dupont"
     ],
     "id": "hernandez-lobato13a",
