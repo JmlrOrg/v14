@@ -13,6 +13,13 @@
         3817
     ],
     "title": "BudgetedSVM: A Toolbox for Scalable SVM Approximations",
+    "extra_links": [
+        [
+            "code",
+            "https://github.com/djurikom/BudgetedSVM"
+        ]
+    ],
+    "special_issue": "MLOSS",
     "volume": 14,
     "year": 2013
 }
