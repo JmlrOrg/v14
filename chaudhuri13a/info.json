@@ -2,8 +2,8 @@
     "abstract": "The principal components analysis (PCA) algorithm is a standard tool for identifying good low-dimensional approximations to high-dimensional data. Many data sets of interest contain private or sensitive information about individuals. Algorithms which operate on such data should be sensitive to the privacy risks in publishing their outputs. Differential privacy is a framework for developing tradeoffs between privacy and the utility of these outputs. In this paper we investigate the theory and empirical performance of differentially private approximations to PCA and propose a new method which explicitly optimizes the utility of the output. We show that the sample complexity of the proposed method differs from the existing procedure in the scaling with the data dimension, and that our method is nearly optimal in terms of this scaling. We furthermore illustrate our results, showing that on real data there is a large performance gap between the existing method and our method.",
     "authors": [
         "Kamalika Chaudhuri",
-        "An",
-        "D. Sarwate"
+        "Anand D. Sarwate",
+        "Kaushik Sinha"
     ],
     "id": "chaudhuri13a",
     "issue": 53,
