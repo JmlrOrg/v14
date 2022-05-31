@@ -1,0 +1,18 @@
+{
+    "abstract": "The variational Bayesian (VB) approximation is known to be a promising approach to Bayesian estimation, when the rigorous calculation of the Bayes posterior is intractable. The VB approximation has been successfully applied to matrix factorization (MF), offering automatic dimensionality selection for principal component analysis. Generally, finding the VB solution is a non-convex problem, and most methods rely on a local search algorithm derived through a standard procedure for the VB approximation. In this paper, we show that a better option is available for fully-observed VBMF---the global solution can be analytically computed. More specifically, the global solution is a reweighted SVD of the observed matrix, and each weight can be obtained by solving a quartic equation with its coefficients being functions of the observed singular value. We further show that the global optimal solution of empirical VBMF (where hyperparameters are also learned from data) can also be analytically computed. We illustrate the usefulness of our results through experiments in multi-variate analysis.",
+    "authors": [
+        "Shinichi Nakajima",
+        "Masashi Sugiyama",
+        "S. Derin Babacan",
+        "Ryota Tomioka"
+    ],
+    "id": "nakajima13a",
+    "issue": 1,
+    "pages": [
+        1,
+        37
+    ],
+    "title": "Global Analytic Solution of Fully-observed Variational Bayesian Matrix Factorization",
+    "volume": 14,
+    "year": 2013
+}

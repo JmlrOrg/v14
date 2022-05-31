@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper is devoted to regret lower bounds in the classical model of stochastic multi-armed bandit. A well-known result of Lai and Robbins, which has then been extended by Burnetas and Katehakis, has established the presence of a logarithmic bound for all consistent policies. We relax the notion of consistency, and exhibit a generalisation of the bound. We also study the existence of logarithmic bounds in general and in the case of Hannan consistency. Moreover, we prove that it is impossible to design an adaptive policy that would select the best of two algorithms by taking advantage of the properties of the environment. To get these results, we study variants of popular Upper Confidence Bounds (UCB) policies.",
+    "authors": [
+        "Antoine Salomon",
+        "Jean-Yves Audibert",
+        "Issam El Alaoui"
+    ],
+    "id": "salomon13a",
+    "issue": 6,
+    "pages": [
+        187,
+        207
+    ],
+    "title": "Lower Bounds and Selectivity of Weak-Consistent Policies in Stochastic Multi-Armed Bandit Problem",
+    "volume": 14,
+    "year": 2013
+}

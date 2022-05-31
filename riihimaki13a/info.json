@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper considers probabilistic multinomial probit classification using Gaussian process (GP) priors. Challenges with multiclass GP classification are the integration over the non-Gaussian posterior distribution, and the increase of the number of unknown latent variables as the number of target classes grows. Expectation propagation (EP) has proven to be a very accurate method for approximate inference but the existing EP approaches for the multinomial probit GP classification rely on numerical quadratures, or independence assumptions between the latent values associated with different classes, to facilitate the computations. In this paper we propose a novel nested EP approach which does not require numerical quadratures, and approximates accurately all between-class posterior dependencies of the latent values, but still scales linearly in the number of classes. The predictive accuracy of the nested EP approach is compared to Laplace, variational Bayes, and Markov chain Monte Carlo (MCMC) approximations with various benchmark data sets. In the experiments nested EP was the most consistent method compared to MCMC sampling, but in terms of classification accuracy the differences between all the methods were small from a practical point of view.",
+    "authors": [
+        "Jaakko Riihimäki",
+        "Pasi Jylänki",
+        "Aki Vehtari"
+    ],
+    "id": "riihimaki13a",
+    "issue": 3,
+    "pages": [
+        75,
+        109
+    ],
+    "title": "Nested Expectation Propagation for Gaussian Process Classification with a Multinomial Probit Likelihood",
+    "volume": 14,
+    "year": 2013
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We present new measures of the causal direction, or direction of effect, between two non-Gaussian random variables. They are based on the likelihood ratio under the linear non-Gaussian acyclic model (LiNGAM). We also develop simple first-order approximations of the likelihood ratio and analyze them based on related cumulant-based measures, which can be shown to find the correct causal directions. We show how to apply these measures to estimate LiNGAM for more than two variables, and even in the case of more variables than observations. We further extend the method to cyclic and nonlinear models. The proposed framework is statistically at least as good as existing ones in the cases of few data points or noisy data, and it is computationally and conceptually very simple. Results on simulated fMRI data indicate that the method may be useful in neuroimaging where the number of time points is typically quite small.",
+    "authors": [
+        "Aapo Hyvärinen",
+        "Stephen M. Smith"
+    ],
+    "id": "hyvarinen13a",
+    "issue": 4,
+    "pages": [
+        111,
+        152
+    ],
+    "title": "Pairwise Likelihood Ratios for Estimation of Non-Gaussian Structural Equation Models",
+    "volume": 14,
+    "year": 2013
+}
