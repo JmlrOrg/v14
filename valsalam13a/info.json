@@ -1,0 +1,16 @@
+{
+    "abstract": "Sorting networks are an interesting class of parallel sorting algorithms with applications in multiprocessor computers and switching networks. They are built by cascading a series of comparison-exchange units called comparators. Minimizing the number of comparators for a given number of inputs is a challenging optimization problem. This paper presents a two-pronged approach called Symmetry and Evolution based Network Sort Optimization (SENSO) that makes it possible to scale the solutions to networks with a larger number of inputs than previously possible. First, it uses the symmetry of the problem to decompose the minimization goal into subgoals that are easier to solve. Second, it minimizes the resulting greedy solutions further by using an evolutionary algorithm to learn the statistical distribution of comparators in minimal networks. The final solutions improve upon half-century of results published in patents, books, and peer-reviewed literature, demonstrating the potential of the SENSO approach for solving difficult combinatorial problems.",
+    "authors": [
+        "Vinod K. Valsalam",
+        "Risto Miikkulainen"
+    ],
+    "id": "valsalam13a",
+    "issue": 9,
+    "pages": [
+        303,
+        331
+    ],
+    "title": "Using Symmetry and Evolutionary Search to Minimize Sorting Networks",
+    "volume": 14,
+    "year": 2013
+}
