@@ -1,0 +1,22 @@
+{
+    "abstract": "This paper introduces the rllib as an original C++ template-based library oriented toward value function estimation. Generic programming is promoted here as a way of having a good fit between the mathematics of reinforcement learning and their implementation in a library. The main concepts of rllib are presented, as well as a short example.",
+    "authors": [
+        "Hervé Frezza-Buet",
+        "Matthieu Geist"
+    ],
+    "id": "frezza-buet13a",
+    "issue": 18,
+    "pages": [
+        625,
+        628
+    ],
+    "title": "A C++ Template-Based Reinforcement Learning Library: Fitting the Code to the Mathematics",
+    "volume": 14,
+    "year": 2013,
+    "extra_links": [
+        [
+            "code",
+            "https://github.com/HerveFrezza-Buet/RLlib"
+        ]
+    ],
+}
