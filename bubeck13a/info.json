@@ -1,0 +1,17 @@
+{
+    "abstract": "We consider an original problem that arises from the issue of security analysis of a power system and that we name optimal discovery with probabilistic expert advice. We address it with an algorithm based on the optimistic paradigm and on the Good-Turing missing mass estimator. We prove two different regret bounds on the performance of this algorithm under weak assumptions on the probabilistic experts. Under more restrictive hypotheses, we also prove a macroscopic optimality result, comparing the algorithm both with an oracle strategy and with uniform sampling. Finally, we provide numerical experiments illustrating these theoretical findings.",
+    "authors": [
+        "Sébastien Bubeck",
+        "Damien Ernst",
+        "Aurélien Garivier"
+    ],
+    "id": "shalev-shwartz13a",
+    "issue": 16,
+    "pages": [
+        601,
+        623
+    ],
+    "title": "Optimal Discovery with Probabilistic Expert Advice: Finite Time Analysis and Macroscopic Optimality",
+    "volume": 14,
+    "year": 2013
+}

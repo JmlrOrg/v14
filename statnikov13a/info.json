@@ -1,0 +1,18 @@
+{
+    "abstract": "Algorithms for Markov boundary discovery from data constitute an important recent development in machine learning, primarily because they offer a principled solution to the variable/feature selection problem and give insight on local causal structure. Over the last decade many sound algorithms have been proposed to identify a single Markov boundary of the response variable. Even though faithful distributions and, more broadly, distributions that satisfy the intersection property always have a single Markov boundary, other distributions/data sets may have multiple Markov boundaries of the response variable. The latter distributions/data sets are common in practical data-analytic applications, and there are several reasons why it is important to induce multiple Markov boundaries from such data. However, there are currently no sound and efficient algorithms that can accomplish this task. This paper describes a family of algorithms TIE* that can discover all Markov boundaries in a distribution. The broad applicability as well as efficiency of the new algorithmic family is demonstrated in an extensive benchmarking study that involved comparison with 26 state-of-the-art algorithms/variants in 15 data sets from a diversity of application domains.",
+    "authors": [
+        "Alexander Statnikov",
+        "Nikita I. Lytkin",
+        "Jan Lemeire",
+        "Constantin F. Aliferis"
+    ],
+    "id": "statnikov13a",
+    "issue": 15,
+    "pages": [
+        499,
+        566
+    ],
+    "title": "Algorithms for Discovery of Multiple Markov Boundaries",
+    "volume": 14,
+    "year": 2013
+}
