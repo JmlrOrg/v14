@@ -1,0 +1,16 @@
+{
+    "abstract": "Four decades after their invention, quasi-Newton methods are still state of the art in unconstrained numerical optimization. Although not usually interpreted thus, these are learning algorithms that fit a local quadratic approximation to the objective function. We show that many, including the most popular, quasi-Newton methods can be interpreted as approximations of Bayesian linear regression under varying prior assumptions. This new notion elucidates some shortcomings of classical algorithms, and lights the way to a novel nonparametric quasi-Newton method, which is able to make more efficient use of available information at computational cost similar to its predecessors.",
+    "authors": [
+        "Philipp Hennig",
+        "Martin Kiefel"
+    ],
+    "id": "hennig13a",
+    "issue": 26,
+    "pages": [
+        843,
+        865
+    ],
+    "title": "Quasi-Newton Method: A New Direction",
+    "volume": 14,
+    "year": 2013
+}
