@@ -1,0 +1,21 @@
+{
+    "abstract": "MLPACK is a state-of-the-art, scalable, multi-platform C++ machine learning library released in late 2011 offering both a simple, consistent API accessible to novice users and high performance and flexibility to expert users by leveraging modern features of C++. MLPACK provides cutting-edge algorithms whose benchmarks exhibit far better performance than other leading machine learning libraries. MLPACK version 1.0.3, licensed under the LGPL, is available at www.mlpack.org.",
+    "authors": [
+        "Ryan R. Curtin",
+        "James R. Cline",
+        "N. P. Slagle",
+        "William B. March",
+        "Parikshit Ram",
+        "Nishant A. Mehta",
+        "Alexander G. Gray"
+    ],
+    "id": "curtin13a",
+    "issue": 24,
+    "pages": [
+        801,
+        805
+    ],
+    "title": "MLPACK: A Scalable C++ Machine Learning Library",
+    "volume": 14,
+    "year": 2013
+}

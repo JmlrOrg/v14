@@ -1,0 +1,17 @@
+{
+    "abstract": "Graph-based semi-supervised learning (SSL) methods play an increasingly important role in practical machine learning systems, particularly in agnostic settings when no parametric information or other prior knowledge is available about the data distribution. Given the constructed graph represented by a weight matrix, transductive inference is used to propagate known labels to predict the values of all unlabeled vertices. Designing a robust label diffusion algorithm for such graphs is a widely studied problem and various methods have recently been suggested. Many of these can be formalized as regularized function estimation through the minimization of a quadratic cost. However, most existing label diffusion methods minimize a univariate cost with the classification function as the only variable of interest. Since the observed labels seed the diffusion process, such univariate frameworks are extremely sensitive to the initial label choice and any label noise. To alleviate the dependency on the initial observed labels, this article proposes a bivariate formulation for graph-based SSL, where both the binary label information and a continuous classification function are arguments of the optimization. This bivariate formulation is shown to be equivalent to a linearly constrained Max-Cut problem. Finally an efficient solution via greedy gradient Max-Cut (GGMC) is derived which gradually assigns unlabeled vertices to each class with minimum connectivity. Once convergence guarantees are established, this greedy Max-Cut based SSL is applied on both artificial and standard benchmark data sets where it obtains superior classification accuracy compared to existing state-of-the-art SSL methods. Moreover, GGMC shows robustness with respect to the graph construction method and maintains high accuracy over extensive experiments with various edge linking and weighting schemes.",
+    "authors": [
+        "Jun Wang",
+        "Tony Jebara",
+        "Shih-Fu Chang"
+    ],
+    "id": "wang13a",
+    "issue": 23,
+    "pages": [
+        771,
+        800
+    ],
+    "title": "Semi-Supervised Learning Using Greedy Max-Cut",
+    "volume": 14,
+    "year": 2013
+}

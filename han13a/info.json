@@ -1,0 +1,17 @@
+{
+    "abstract": "We propose a high dimensional classification method, named the Copula Discriminant Analysis (CODA). The CODA generalizes the normal-based linear discriminant analysis to the larger Gaussian Copula models (or the nonparanormal) as proposed by Liu et al. (2009). To simultaneously achieve estimation efficiency and robustness, the nonparametric rank-based methods including the Spearman's rho and Kendall's tau are exploited in estimating the covariance matrix. In high dimensional settings, we prove that the sparsity pattern of the discriminant features can be consistently recovered with the parametric rate, and the expected misclassification error is consistent to the Bayes risk. Our theory is backed up by careful numerical experiments, which show that the extra flexibility gained by the CODA method incurs little efficiency loss even when the data are truly Gaussian. These results suggest that the CODA method can be an alternative choice besides the normal-based high dimensional linear discriminant analysis.",
+    "authors": [
+        "Fang Han",
+        "Tuo Zhao",
+        "Han Liu"
+    ],
+    "id": "han13a",
+    "issue": 19,
+    "pages": [
+        629,
+        671
+    ],
+    "title": "CODA: High Dimensional Copula Discriminant Analysis",
+    "volume": 14,
+    "year": 2013
+}

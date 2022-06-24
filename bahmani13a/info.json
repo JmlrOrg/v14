@@ -1,0 +1,17 @@
+{
+    "abstract": "Sparsity-constrained optimization has wide applicability in machine learning, statistics, and signal processing problems such as feature selection and Compressed Sensing. A vast body of work has studied the sparsity-constrained optimization from theoretical, algorithmic, and application aspects in the context of sparse estimation in linear models where the fidelity of the estimate is measured by the squared error. In contrast, relatively less effort has been made in the study of sparsity-constrained optimization in cases where nonlinear models are involved or the cost function is not quadratic. In this paper we propose a greedy algorithm, Gradient Support Pursuit (GraSP), to approximate sparse minima of cost functions of arbitrary form. Should a cost function have a Stable Restricted Hessian (SRH) or a Stable Restricted Linearization (SRL), both of which are introduced in this paper, our algorithm is guaranteed to produce a sparse vector within a bounded distance from the true sparse optimum. Our approach generalizes known results for quadratic cost functions that arise in sparse linear regression and Compressed Sensing. We also evaluate the performance of GraSP through numerical simulations on synthetic and real data, where the algorithm is employed for sparse logistic regression with and without l2-regularization.",
+    "authors": [
+        "Sohail Bahmani",
+        "Bhiksha Raj",
+        "Petros T. Boufounos"
+    ],
+    "id": "curtin13a",
+    "issue": 25,
+    "pages": [
+        807,
+        841
+    ],
+    "title": "Greedy Sparsity-Constrained Optimization",
+    "volume": 14,
+    "year": 2013
+}
