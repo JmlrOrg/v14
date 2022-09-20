@@ -1,0 +1,15 @@
+{
+    "abstract": "We consider the discrete-time infinite-horizon optimal control problem formalized by Markov decision processes (Puterman, 1994; Bertsekas and Tsitsiklis, 1996). We revisit the work of Bertsekas and Ioffe (1996), that introduced λ policy iteration---a family of algorithms parametrized by a parameter λ---that generalizes the standard algorithms value and policy iteration, and has some deep connections with the temporal-difference algorithms described by Sutton and Barto (1998). We deepen the original theory developed by the authors by providing convergence rate bounds which generalize standard bounds for value iteration described for instance by Puterman (1994). Then, the main contribution of this paper is to develop the theory of this algorithm when it is used in an approximate form. We extend and unify the separate analyzes developed by Munos for approximate value iteration (Munos, 2007) and approximate policy iteration (Munos, 2003), and provide performance bounds in the discounted and the undiscounted situations. Finally, we revisit the use of this algorithm in the training of a Tetris playing controller as originally done by Bertsekas and Ioffe (1996). Our empirical results are different from those of Bertsekas and Ioffe (which were originally qualified as ''paradoxical'' and ''intriguing''). We track down the reason to be a minor implementation error of the algorithm, which suggests that, in practice, λ policy iteration may be more stable than previously thought.",
+    "authors": [
+        "Bruno Scherrer"
+    ],
+    "id": "scherrer13a",
+    "issue": 36,
+    "pages": [
+        1181,
+        1227
+    ],
+    "title": "Performance Bounds for λ Policy Iteration and Application to the Game of Tetris",
+    "volume": 14,
+    "year": 2013
+}
