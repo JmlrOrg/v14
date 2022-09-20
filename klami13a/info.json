@@ -1,0 +1,17 @@
+{
+    "abstract": "Canonical correlation analysis (CCA) is a classical method for seeking correlations between two multivariate data sets. During the last ten years, it has received more and more attention in the machine learning community in the form of novel computational formulations and a plethora of applications. We review recent developments in Bayesian models and inference methods for CCA which are attractive for their potential in hierarchical extensions and for coping with the combination of large dimensionalities and small sample sizes. The existing methods have not been particularly successful in fulfilling the promise yet; we introduce a novel efficient solution that imposes group-wise sparsity to estimate the posterior of an extended model which not only extracts the statistical dependencies (correlations) between data sets but also decomposes the data into shared and data set-specific components. In statistics literature the model is known as inter-battery factor analysis (IBFA), for which we now provide a Bayesian treatment.",
+    "authors": [
+        "Arto Klami",
+        "Seppo Virtanen",
+        "Samuel Kaski"
+    ],
+    "id": "klami13a",
+    "issue": 30,
+    "pages": [
+        965,
+        1003
+    ],
+    "title": "Bayesian Canonical Correlation Analysis",
+    "volume": 14,
+    "year": 2013
+}

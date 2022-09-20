@@ -1,0 +1,18 @@
+{
+    "abstract": "Inference algorithms for tree automata that define node selecting queries in unranked trees rely on tree pruning strategies. These impose additional assumptions on node selection that are needed to compensate for small numbers of annotated examples. Pruning-based heuristics in query learning algorithms for Web information extraction often boost the learning quality and speed up the learning process. We will distinguish the class of regular queries that are stable under a given schema-guided pruning strategy, and show that this class is learnable with polynomial time and data. Our learning algorithm is obtained by adding pruning heuristics to the traditional learning algorithm for tree automata from positive and negative examples. While justified by a formal learning model, our learning algorithm for stable queries also performs very well in practice of XML information extraction.",
+    "authors": [
+        "Joachim Niehren",
+        "Jérôme Champavère",
+        "Aurélien Lemay",
+        "Rémi Gilleron"
+    ],
+    "id": "niehren13a",
+    "issue": 29,
+    "pages": [
+        927,
+        964
+    ],
+    "title": "Query Induction with Schema-Guided Pruning Strategies",
+    "volume": 14,
+    "year": 2013
+}
