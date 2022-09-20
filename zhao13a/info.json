@@ -1,0 +1,18 @@
+{
+    "abstract": "Fano's inequality lower bounds the probability of transmission error through a communication channel. Applied to classification problems, it provides a lower bound on the Bayes error rate and motivates the widely used Infomax principle. In modern machine learning, we are often interested in more than just the error rate. In medical diagnosis, different errors incur different cost; hence, the overall risk is cost-sensitive. Two other popular criteria are balanced error rate (BER) and F-score. In this work, we focus on the two-class problem and use a general definition of conditional entropy (including Shannon's as a special case) to derive upper/lower bounds on the optimal F-score, BER and cost-sensitive risk, extending Fano's result. As a consequence, we show that Infomax is not suitable for optimizing F-score or cost-sensitive risk, in that it can potentially lead to low F-score and high risk. For cost-sensitive risk, we propose a new conditional entropy formulation which avoids this inconsistency. In addition, we consider the common practice of using a threshold on the posterior probability to tune performance of a classifier. As is widely known, a threshold of 0.5, where the posteriors cross, minimizes error rate---we derive similar optimal thresholds for F-score and BER.",
+    "authors": [
+        "Ming-Jie Zhao",
+        "Narayanan Edakunni",
+        "Adam Pocock",
+        "Gavin Brown"
+    ],
+    "id": "zhao13a",
+    "issue": 32,
+    "pages": [
+        1033,
+        1090
+    ],
+    "title": "Beyond Fano's Inequality: Bounds on the Optimal F-Score, BER, and Cost-Sensitive Risk and Their Implications",
+    "volume": 14,
+    "year": 2013
+}
