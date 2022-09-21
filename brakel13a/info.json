@@ -1,9 +1,8 @@
 {
     "abstract": "Imputing missing values in high dimensional time-series is a difficult problem. This paper presents a strategy for training energy-based graphical models for imputation directly, bypassing difficulties probabilistic approaches would face. The training strategy is inspired by recent work on optimization-based learning (Domke, 2012) and allows complex neural models with convolutional and recurrent structures to be trained for imputation tasks. In this work, we use this training strategy to derive learning rules for three substantially different neural architectures. Inference in these models is done by either truncated gradient descent or variational mean-field iterations. In our experiments, we found that the training methods outperform the Contrastive Divergence learning algorithm. Moreover, the training methods can easily handle missing values in the training data itself during learning. We demonstrate the performance of this learning scheme and the three models we introduce on one artificial and two real-world data sets.",
     "authors": [
-        "Phil\\'{e}mon Brakel",
-        "Dirk Stroob",
-        "t",
+        "Phil{{\\'e}}mon Brakel",
+        "Dirk Stroobandt",
         "Benjamin Schrauwen"
     ],
     "id": "brakel13a",
