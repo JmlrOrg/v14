@@ -17,5 +17,6 @@
     ],
     "title": "MLPACK: A Scalable C++ Machine Learning Library",
     "volume": 14,
-    "year": 2013
+    "year": 2013,
+    "special_issue": "MLOSS"
 }
