@@ -14,5 +14,9 @@
     "title": "Divvy: Fast and Intuitive Exploratory Data Analysis",
     "volume": 14,
     "year": 2013,
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [
+        ["code", "https://github.com/jmlewis/divvy"],
+        ["webpage", "https://divvy.ucsd.edu/"]
+    ]
 }

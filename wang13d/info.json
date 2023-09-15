@@ -19,5 +19,6 @@
     "title": "The CAM Software for Nonnegative Blind Source Separation in R-Java",
     "volume": 14,
     "year": 2013,
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://mloss.org/software/view/437/"]]
 }

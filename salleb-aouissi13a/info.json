@@ -17,5 +17,6 @@
     "title": "QuantMiner for Mining Quantitative Association Rules",
     "volume": 14,
     "year": 2013,
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/QuantMiner/QuantMiner"]]
 }

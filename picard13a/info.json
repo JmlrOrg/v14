@@ -14,5 +14,6 @@
     "title": "JKernelMachines: A Simple Framework for Kernel Machines",
     "volume": 14,
     "year": 2013,
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/davidpicard/jkernelmachines"]]
 }

@@ -15,5 +15,6 @@
     "title": "GURLS: A Least Squares Library for Supervised Learning",
     "volume": 14,
     "year": 2013,
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/LCSL/GURLS"]]
 }

@@ -14,5 +14,6 @@
     "title": "Tapkee: An Efficient Dimension Reduction Library",
     "volume": 14,
     "year": 2013,
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/lisitsyn/tapkee"]]
 }
